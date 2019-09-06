@@ -1,0 +1,40 @@
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+#title {
+  color: coral;
+  font-family: 'Dosis', sans-serif;
+  font-weight: bold;
+  float: left;
+  font-size: 4em;
+}
+
+#title:hover {
+  color: brown;
+}
+
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+  top: 50%;
+  width: 100%;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.tab {
+  float: right;
+  font-size: 1.25em;
+}
+
+button {
+  background-color: transparent;
+  color: white;
+  border: none;
+}
+
+button:hover {
+  color: coral;
+}
